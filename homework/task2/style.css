@@ -1,0 +1,59 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    background-color: antiquewhite;
+}
+
+#more12 {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+}
+
+#main {
+    display: flex;
+    justify-content: center;
+}
+
+#more3 {
+
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: rgb(170, 230, 170);
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+}
+
+#one {
+    background-color: rgb(220, 212, 212);
+}
+
+#two {
+    background-color: rgb(220, 212, 212);
+}
+
+#three {
+    background-color: rgb(220, 212, 212);
+}
+
+#four {
+    background-color: rgb(220, 212, 212);
+}
